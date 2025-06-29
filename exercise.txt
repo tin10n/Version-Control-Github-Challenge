@@ -1,0 +1,18 @@
+1. What is the Terminal?
+The Terminal is a command-line interface (CLI). It’s an application that allows you to control your computer by typing text commands. For example, you can type commands to open files, navigate through folders, or even run programs. Commands like ls are used to list files or cd to change directories. It's super powerful because it allows you to interact directly with your computer’s operating system and perform tasks that are often faster and more precise than using the graphical interface. Developers prefer it because it helps with things like automating tasks, troubleshooting, and coding more efficiently.
+To open up the terminal, you can search for it using Spotlight (Command + Space and type "Terminal").
+
+2. What is the major difference between Git and GitHub?
+Git and GitHub work together, but serve different purposes:
+•	Git is a free open source version control system (VCS). It’s a tool that tracks changes to files, over time. You are able to see what changes were made, when, and by whom. You can also go back to earlier versions if you mess something up. Git is used locally on your computer to manage these changes.
+•	GitHub is a web-based platform that hosts Git repositories online. A repository is a storage space for your project, meanwhile Git tracks the changes. GitHub lets you upload your Git repos to the cloud so you can share your code with others, collaborate with teams, and access your project from anywhere. There is a free version where the repos are public, and a paid version where you can make your repos private.
+
+3.How to Fork a Repository on GitHub
+Forking a repository is making your own copy of someone else's project on GitHub, so you can edit it without affecting the original. 
+To do this you need to:
+•	 Go to the GitHub repository you want to fork (the project page).
+•	 At the top-right corner of the page, you'll see a Fork button. Click on it.
+•	 GitHub has created a copy of that repository, it is placed under your GitHub account.
+You can freely edit this forked version and it will not affect the original repository.
+Pull requests can be used to make changes to the original.
+
